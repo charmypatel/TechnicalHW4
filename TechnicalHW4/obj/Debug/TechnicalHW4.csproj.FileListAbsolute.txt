@@ -52,7 +52,6 @@ C:\Users\charm\OneDrive\Desktop\TechnicalHW4\TechnicalHW4\bin\roslyn\VBCSCompile
 C:\Users\charm\OneDrive\Desktop\TechnicalHW4\TechnicalHW4\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\charm\OneDrive\Desktop\TechnicalHW4\TechnicalHW4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\charm\OneDrive\Desktop\TechnicalHW4\TechnicalHW4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\charm\OneDrive\Desktop\TechnicalHW4\TechnicalHW4\obj\Debug\TechnicalHW4.csprojAssemblyReference.cache
 C:\Users\charm\OneDrive\Desktop\TechnicalHW4\TechnicalHW4\obj\Debug\TechnicalHW4.csproj.CoreCompileInputs.cache
 C:\Users\charm\OneDrive\Desktop\TechnicalHW4\TechnicalHW4\obj\Debug\TechnicalHW4.csproj.CopyComplete
 C:\Users\charm\OneDrive\Desktop\TechnicalHW4\TechnicalHW4\obj\Debug\TechnicalHW4.dll

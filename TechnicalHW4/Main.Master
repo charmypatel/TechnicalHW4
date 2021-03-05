@@ -15,14 +15,29 @@
     <form id="form1" runat="server">
         <div>
             <h1 style="color:plum; text-align:center; margin-top:20px;">Pet Med</h1>
-            <div style="display:flex; flex-direction:row; justify-content:space-around; width:25%;">
-                <nav style"background-color:">
-                <a href="Default.aspx" class="text-decoration-none">Default Page</a>
-                <a href="PageTwo.aspx" class="text-decoration-none">About</a>
-                <a href="PageThree.aspx" class="text-decoration-none">Services</a>
-                <a href="PageFour.aspx" class="text-decoration-none">Contact</a>
-                </nav>
-              
+            <br />
+            <div style="display:flex; flex-direction:row; justify-content:space-around; width:100%;">
+                <nav class="navbar navbar-expand-lg navbar-light fixed-top">
+                     <a class="navbar-brand" href="">Charmy Patel<span class="sr-only"></span></a>
+                    
+                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        <ul class="navbar-nav mr-auto">
+                           <li class="nav-item">
+                           <a href="Default.aspx" class="text-decoration-none">Default Page</a>
+                           </li>
+                           <li class="nav-item">
+                            <a href="PageTwo.aspx" class="text-decoration-none">About</a>
+                           </li>
+                           <li class="nav-item">
+                            <a href="PageThree.aspx" class="text-decoration-none">Services</a>
+                           </li>
+                           <li class="nav-item">
+                            <a href="PageFour.aspx" class="text-decoration-none">Contact</a>
+                           </li>
+                        </ul>
+                     </div>
+             </nav>
+                 
             </div>
             <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
             </asp:ContentPlaceHolder>

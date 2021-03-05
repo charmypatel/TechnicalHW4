@@ -9,9 +9,10 @@
         <p>Please let us know if you have any questions regarding the services we provide, as always we look forward to working with you!</p>
         <form class="form-inline">
           <div class="form-group mx-sm-3 mb-2">
-            <label for="inputPassword2" class="sr-only">Password</label>
+            <label for="email" class="sr-only">Email</label>
             <input type="email" class="form-control" id="inputEmail" placeholder="Email">
           </div>
             <br />
+          <button type="submit" class="btn btn-primary mb-2">Submit</button>
         </form>
 </asp:Content>

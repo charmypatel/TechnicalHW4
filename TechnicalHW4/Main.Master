@@ -14,7 +14,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <h1 style="color:lightcoral; text-align:center; margin-top:20px;">Pet Med</h1>
+            <h1 style="color:plum; text-align:center; margin-top:20px;">Pet Med</h1>
             <div style="display:flex; flex-direction:row; justify-content:space-around; width:25%;">
                 <nav style"background-color:">
                 <a href="Default.aspx" class="text-decoration-none">Default Page</a>

@@ -68,6 +68,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Default.aspx" />
+    <Content Include="dog.jpg" />
     <Content Include="PageFour.aspx" />
     <Content Include="PageThree.aspx" />
     <Content Include="PageTwo.aspx" />

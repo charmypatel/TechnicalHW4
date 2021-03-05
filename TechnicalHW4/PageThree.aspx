@@ -21,10 +21,14 @@
             <dt class="col-sm-3 text-truncate" style="color:#BE8BDD;">Dietary Counseling: </dt>
             <dd class="col-sm-9">We will provide guidance regarding your pet's nutritional needs for each life stage, including dietary requirements for growth, weight maintenance and performance.</dd>
             <br><br>
-            <br>
+            <br><br />
             <dt class="col-sm-3 text-truncate" style="color:#BE8BDD;">Pharmacy: </dt>
             <dd class="col-sm-9">We maintain a complete inventory of pharmaceuticals, vitamins, shampoos, flea and tick control products and heartworm preventatives to meet the needs of your pet. We also carry a full line of prescription diets. </dd>
-            <br><br>
+             <br><br>
+            <br><br />
+            <dt class="col-sm-3 text-truncate" style="color:#BE8BDD;">Dentistry:</dt>
+            <dd class="col-sm-9">Our dental services include teeth cleaning and polishing, digital dental x-rays, tooth extractions and oral surgery.  We have high speed air-driven dental equipment allowing us to perform more advanced dental procedures. 
+ </dd>
             <br><br>
          </dl>
       </div>

@@ -56,3 +56,4 @@ C:\Users\charm\OneDrive\Desktop\TechnicalHW4\TechnicalHW4\obj\Debug\TechnicalHW4
 C:\Users\charm\OneDrive\Desktop\TechnicalHW4\TechnicalHW4\obj\Debug\TechnicalHW4.csproj.CopyComplete
 C:\Users\charm\OneDrive\Desktop\TechnicalHW4\TechnicalHW4\obj\Debug\TechnicalHW4.dll
 C:\Users\charm\OneDrive\Desktop\TechnicalHW4\TechnicalHW4\obj\Debug\TechnicalHW4.pdb
+C:\Users\charm\OneDrive\Desktop\TechnicalHW4\TechnicalHW4\obj\Debug\TechnicalHW4.csprojAssemblyReference.cache
